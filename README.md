@@ -5,7 +5,7 @@ RU: Реализация потокобезопасной конкурентно
 
 ## Instructions for running on Linux (Ubuntu):
 ### Option 1
-1) Download [project executable file](https://github.com/Vasiliy-Korneev/AIS-LR1/blob/main/ais-lr1)
+1) Download [project executable file](https://github.com/Vasilii-Korneev/AIS-LR1/blob/main/ais-lr1)
 2) Open the terminal (Ctrl+Alt+T)
 3) Enter the commands:
    ###### <tab><tab>sudo chmod +x ~/Downloads/ais-lr1
