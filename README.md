@@ -4,7 +4,7 @@ EN: Implementation of a thread-safe competitive task queue in C++ for Windows an
 RU: Реализация потокобезопасной конкурентной очереди задач на С++ для Windows и linux
 
 ## Instructions for running on Linux:
-[click me to download](https://github.com/Vasilii-Korneev/AIS-LR1/blob/main/ais-lr1)
+<a href="downloadURL" target="https://github.com/Vasilii-Korneev/AIS-LR1/blob/main/ais-lr1" />
 ## Инструкция по запуску на Linux:
 
 
