@@ -8,8 +8,10 @@ RU: Реализация потокобезопасной конкурентно
 1) Download [project executable file](https://github.com/Vasiliy-Korneev/AIS-LR1/blog/main/aisa-lr1 )
 2) Open the terminal (Ctrl+Alt+T)
 3) Enter the command
+   ####
    <tab><tab>sudo chmod +x ~/Downloads/ais-lr1
 5) Enter the command
+   #### 
    <tab><tab>sudo ./ais-lr1
 7) Follow the instructions in the terminal
 ## Инструкция по запуску на Linux (Ubuntu):
