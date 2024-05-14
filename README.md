@@ -11,6 +11,8 @@ RU: Реализация потокобезопасной конкурентно
    ###### <tab><tab>sudo chmod +x ~/Downloads/ais-lr1
    ###### <tab><tab>sudo ./Downloads/ais-lr1
 4) Follow the instructions in the terminal
+4.1) To restart the program, enter:
+   ###### <tab><tab>sudo ./Downloads/ais-lr1
 ## Инструкция по запуску на Linux (Ubuntu):
 ### Вариант 1
 1) Скачать [исполняемый файл проекта](https://github.com/Vasilii-Korneev/AIS-LR1/blob/main/ais-lr1)
@@ -19,6 +21,8 @@ RU: Реализация потокобезопасной конкурентно
    ###### <tab><tab>sudo chmod +x ~/Загрузки/ais-lr1
    ###### <tab><tab>sudo ./Загрузки/ais-lr1
 4) Следовать указаниям в терминале
+4.1) Для повторного запуска программы введите:   
+   ###### <tab><tab>sudo ./Загрузки/ais-lr1
 ## Инструкция по запуску на Windows 10/11
 
 ## Instructions for launching on Windows 10/11
