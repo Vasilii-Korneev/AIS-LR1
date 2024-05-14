@@ -9,7 +9,7 @@ RU: Реализация потокобезопасной конкурентно
 2) Open the terminal (Ctrl+Alt+T)
 3) Enter the commands:
    ###### <tab><tab>sudo chmod +x ~/Downloads/ais-lr1
-   ###### <tab><tab>sudo ./ais-lr1
+   ###### <tab><tab>sudo ./Downloads/ais-lr1
 4) Follow the instructions in the terminal
 ## Инструкция по запуску на Linux (Ubuntu):
 ### Вариант 1
@@ -17,7 +17,7 @@ RU: Реализация потокобезопасной конкурентно
 2) Открыть терминал (Ctrl+Alt+T)
 3) Ввести следующие команды:
    ###### <tab><tab>sudo chmod +x ~/Загрузки/ais-lr1
-   ###### <tab><tab>sudo ./ais-lr1
+   ###### <tab><tab>sudo ./Загрузки/ais-lr1
 4) Следовать указаниям в терминале
 ## Инструкция по запуску на Windows 10/11
 
