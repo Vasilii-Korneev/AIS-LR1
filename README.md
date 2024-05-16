@@ -1,8 +1,16 @@
 # AIS-LR1
-RU: Реализация потокобезопасной конкурентной очереди задач на С++ для Windows и linux
+#### RU: Реализация потокобезопасной конкурентной очереди задач на С++ для Windows и linux
 
-EN: Implementation of a thread-safe competitive task queue in C++ for Windows and Linux
+   С помощью данного проекта реализована потокобезопасная конкурентная очередь задач на основе шаблона проектирования Producer-Consumer.
+   
+   Очередь разработана с использованием многопоточности и примитивов синхронизации, чтобы обеспечить безопасное и эффективное выполнение задач.
+   
+#### EN: Implementation of a thread-safe competitive task queue in C++ for Windows and Linux
 
+   This project implements a thread-safe competitive task queue based on the Producer-Consumer design pattern.
+   
+   The queue is designed using multithreading and synchronization primitives to ensure safe and efficient task execution.
+   
 ## Инструкция по запуску на Linux (Ubuntu):
 ### Вариант 1
 1) Скачать [исполняемый файл проекта](https://github.com/Vasilii-Korneev/AIS-LR1/blob/main/ais-lr1)
@@ -48,6 +56,7 @@ EN: Implementation of a thread-safe competitive task queue in C++ for Windows an
 5) To restart the program, enter:
    ###### ./ais-lr1
    
-## Instructions for launching on Windows 10/11
-   
 ## Инструкция по запуску на Windows 10/11
+   Мы уже работаем над этим...
+## Instructions for launching on Windows 10/11
+   We are already working on it...
